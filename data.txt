@@ -1,0 +1,5 @@
+Circle [x=0.0, y=0.0, radius=0.0]
+Circle [x=0.0, y=0.0, radius=7.0]
+Rectangle [x=100.0, y=150.0, height=50.0, width=10.0]
+Rectangle [x=21.0, y=3.0, height=4.0, width=17.0]
+    
